@@ -89,11 +89,7 @@ Trapdoor Opening...
 
 ## 🚀 Future Enhancements
 
-- Replace blocking `delay()` calls with non-blocking timing  
-- Implement adaptive travel time averaging  
-- Add LED bar visualization for “balls in system” status  
-- Integrate EEPROM or SD card logging for run tracking  
-- Wireless version using ESP8266 or Arduino Nano IoT  
+- Working on using a second microchip to control LED's correlating to potential and kinetic energy of the first ball in the system at any given times, by averaging the times between each sensor signal and using estimations for the ratio between PE and KE.
 
 ---
 
